@@ -3,7 +3,7 @@
 #include <cstdlib>
 
 void displayHelp() {
-    std::cout << "C++ Multiplatform Command-Line Tool\n"
+    std::cout << "Sherwork 0.0.1\n"
               << "Usage: my_tool [options]\n\n"
               << "Options:\n"
               << "  --help             Display this help message\n"
